@@ -1,0 +1,11 @@
+name: even_better_analysis
+version: 1.0.0
+description: Lint rules for Dart and Flutter.
+repository: https://github.com/alexandereverett92/even_better_analysis
+issue_tracker: https://github.com/alexandereverett92/even_better_analysis/issues
+homepage: https://github.com/alexandereverett92/even_better_analysis
+documentation: https://github.com/alexandereverett92/even_better_analysis
+topics: [lints, analyzer, analysis]
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
